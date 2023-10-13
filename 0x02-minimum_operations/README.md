@@ -1,0 +1,1 @@
+Mininum Operations during interview
